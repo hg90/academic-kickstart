@@ -30,8 +30,8 @@ weight = 5
   course = "BS in Applied Mathematics"
   institution = "University of North Carolina at Chapel Hill"
   year = 2012
- 
 +++
+
 
 # Biography
 
@@ -39,4 +39,4 @@ I am currently a fourth year PhD student studying Statistics and Operations Rese
  
  My research interests are broadly in the areas of using Bayesian approach to solve problems on dynamic models such as stochastic differential equations and Markov-based models. My current research focuses on Bayesian inference on stochastic cusp differential equations. 
 
- Before joing UNC, I received MS in Mathematics from [Courant Institute, NYU](https://cims.nyu.edu/) and BS in Applied Mathematics from UNC - Chapel Hill. I also received high school diploma from [Jinan Foreigh Language Scholl](https://www.jnflw.com). My resume is {{% staticref "files/resume.pdf" %}}here{{% /staticref %}}.
+ Before joing UNC, I received MS in Mathematics from [Courant Institute, NYU](https://cims.nyu.edu/) and BS in Applied Mathematics from UNC - Chapel Hill. I also received high school diploma from [Jinan Foreigh Language School](https://www.jnfls.com) in China. My resume is {{% staticref "files/resume.pdf" %}}here{{% /staticref %}}.
