@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Bayesian statistics",
+    "inference problem on stochastic differential equations",
+    "adapptive mathine learningl"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in interdisciplinary Statistics and Operations Research"
+  institution = "University of North Carolina at Chapel Hill"
+  year = 2019
+
+[[education.courses]]
+  course = "MS in Mathematics"
+  institution = "Courant Institute of Mathematical Sciences, NYU"
+  year = 2015
+
+[[education.courses]]
+  course = "BS in Applied Mathematics"
+  institution = "University of North Carolina at Chapel Hill"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Haipeng Gao is a currently a thrid year PhD student studying Statistics and Operations Research. {{% staticref "files/resume.pdf" %}}Download my Resume{{% /staticref %}}.
