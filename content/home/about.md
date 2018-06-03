@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Bayesian statistics",
     "inference problem on stochastic differential equations",
-    "adapptive mathine learningl"
+    "machine learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +35,8 @@ weight = 5
 
 # Biography
 
-Haipeng Gao is a currently a thrid year PhD student studying Statistics and Operations Research. {{% staticref "files/resume.pdf" %}}Download my Resume{{% /staticref %}}.
+I am currently a fourth year PhD student studying Statistics and Operations Research at University of North Carolina at Chapel Hill. It is my great privilege to have [Prof. Chuanshu Ji](http://www.stat.unc.edu/faculty/ji.html) supervising my doctoral reserach. 
+ 
+ My research interests are broadly in the areas of using Bayesian approach to solve problems on dynamic models such as stochastic differential equations and Markov-based models. My current research focuses on Bayesian inference on stochastic cusp differential equations. 
+
+ Before joing UNC, I received MS in Mathematics from [Courant Institute, NYU](https://cims.nyu.edu/) and BS in Applied Mathematics from UNC - Chapel Hill. My resume is {{% staticref "files/resume.pdf" %}}here{{% /staticref %}}.
