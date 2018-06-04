@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Bayesian statistics",
     "inference problem on stochastic differential equations",
+    "application of hidden Markov models"
     "machine learning"
   ]
 
@@ -35,8 +36,8 @@ weight = 5
 
 # Biography
 
-I am currently a fourth year PhD student studying Statistics and Operations Research at University of North Carolina at Chapel Hill. It is my great privilege to have [Prof. Chuanshu Ji](http://www.stat.unc.edu/faculty/ji.html) supervising my doctoral reserach. 
+I am currently a fourth year PhD student studying [Statistics and Operations Research](https://stat-or.unc.edu/) at University of North Carolina at Chapel Hill. It is my great privilege to have [Prof. Chuanshu Ji](http://www.stat.unc.edu/faculty/ji.html) as my advisor supervising my doctoral work and research. 
  
- My research interests are broadly in the areas of using Bayesian approach to solve problems on dynamic models such as stochastic differential equations and Markov-based models. My current research focuses on Bayesian inference on stochastic cusp differential equations. 
+ My research interests lie primarily in the areas of using Bayesian approach to solve inference problems on dynamic models such as stochastic differential equations and Markov-based models. My current research focuses on Bayesian inference on stochastic cusp differential equations. 
 
- Before joing UNC, I received MS in Mathematics from [Courant Institute, NYU](https://cims.nyu.edu/) and BS in Applied Mathematics from UNC - Chapel Hill. I also received high school diploma from [Jinan Foreigh Language School](https://www.jnfls.com) in China. My resume is {{% staticref "files/resume.pdf" %}}here{{% /staticref %}}.
+ Prior to joining the PhD program in UNC, I studied at [Courant Institute of Mathematical Sciences NYU](https://cims.nyu.edu/) where I received MS in Mathematics. I attended UNC Chapel Hill for my undergraduate study where I received BS in Applied Mathematics with a minor in Mathematical Decision Science. I also received high school diploma from [Jinan Foreign Language School](https://www.jnfls.com) in China. My resume is {{% staticref "files/resume.pdf" %}}here{{% /staticref %}}.
